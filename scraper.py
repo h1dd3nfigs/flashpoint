@@ -105,14 +105,30 @@ def get_post_bodies(soup):
 	table_tag = soup.find("table", class_="forumline")
 
 	for span_tag in table_tag.find_all("span", class_="postbody"):
-		body = unicode('')
+		body = unicode('', encoding ='utf-8')
 		for text in span_tag.contents:
+			# print('contents of <span class=postbody> are of type\n ')
+			# print(type(text))
 			if text == '_________________':
 				break
 			else:
-				body += unicode.join(u'',text)
+				# unicode_text = unicode(text, encoding='utf-8')
+				# print('here\'s some more text\n')
+				# print(text)
+
+				if isinstance(text, basestring):
+				# if the text is an instance of bs4.element.NavigableString class, then it's an instance of basestring and already Unicode? because when I attempt to convert said string to a unicode string, script raises TypeError: decoding Unicode is not supported 
+					body += text
+					print(type(text))
+				# elif isinstance(text, bs4.element.Tag):
+				# 	body += text
+				else:
+					# body += text.encode('utf-8')
+					body += unicode.join(u'',text)
 				# CONVERT FROM UNICODE TO ASCII so chars like the currency symbol show up right "£30k?" 
-		post_bodies.append(body.encode('utf8'))
+
+		post_bodies.append(body.encode('utf-8'))
+		# post_bodies.append(body)
 
 
 	return post_bodies
@@ -122,21 +138,45 @@ def get_post_data_per_page(soup):
 	post_authors = get_post_authors(soup)
 	post_dates = get_post_dates(soup)
 	post_bodies = get_post_bodies(soup)
+	# print('post_bodies list BEFORE decoding into unicode:\n')
+	# print(post_bodies)
+	# print('post_bodies list AFTER decoding into unicode:\n')
+	# decoded = [bod.decode("utf-8") for bod in post_bodies]
+	# print(decoded)
 	post_data = zip(post_ids, post_authors, post_dates, post_bodies)
+	# post_data = post_bodies
+	print(post_data)
 	return post_data
 
 def write_post_data_to_csv(post_data):
-	writer = csv.writer(open('forum.csv', 'a'))#, quoting=csv.QUOTE_MINIMAL)
-	for value in post_data:
-	   writer.writerow(value)
+	# writer = csv.writer(open('forum.csv', 'a'))#, quoting=csv.QUOTE_MINIMAL)
+	# for value in post_data:
+	# 	print(value)
+	# 	print(type(value))	
+	# 	uvalue = unicode(value, encoding='utf-8')
+	# 	print(uvalue)
+	# 	print(type(uvalue))	
+	# 	writer.writerow(uvalue)
+	with open('forum.csv', 'w') as f:
+		writer = csv.writer(f, delimiter=';', newline='')
+		# print('csv writer\'s dialetct is\n ')
+		# print(writer.dialect)
+		for value in post_data:
+			# print(value)
+			# print(type(value))	
+			# uvalue = unicode(value, encoding='utf-8')
+			# print(uvalue)
+			# print(type(uvalue))	
+			writer.writerow(value)
+		
 	   #MUST BE SEMICOLON SEPARATED STRING instead of unicode string tuples on each row
 	   #ALSO MUST SEE \n in strings instead of having them interpreted
 
 if __name__ == "__main__":
 	base_url = 'http://www.oldclassiccar.co.uk/forum/phpbb/phpBB2/viewtopic.php?t=12591'
 	url = base_url
-	html_doc = get_html_doc(url)
-	soup = BeautifulSoup(html_doc, 'html.parser')
+	# html_doc = get_html_doc(url)
+	soup = BeautifulSoup(stub.html_doc, 'html.parser')
 	page_uris = get_all_page_uris(soup)
 
 
@@ -145,15 +185,15 @@ if __name__ == "__main__":
 	print(url)
 	post_data = get_post_data_per_page(soup)
 	write_post_data_to_csv(post_data)
-
-	# then loop through all subsequent pages in the thread
-	for path in page_uris:
-		url = urljoin(base_url, path)
-		print('\n\nGetting post data for url\n')
-		print(url)
-		html_doc = get_html_doc(url)
-		soup = BeautifulSoup(html_doc, 'html.parser')
-		post_data = get_post_data_per_page(soup)
-		write_post_data_to_csv(post_data)
+	# # exit()
+	# # then loop through all subsequent pages in the thread
+	# for path in page_uris:
+	# 	url = urljoin(base_url, path)
+	# 	print('\n\nGetting post data for url\n')
+	# 	print(url)
+	# 	html_doc = get_html_doc(url)
+	# 	soup = BeautifulSoup(html_doc, 'html.parser')
+	# 	post_data = get_post_data_per_page(soup)
+	# 	write_post_data_to_csv(post_data)
 
 	
