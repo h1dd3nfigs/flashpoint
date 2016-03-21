@@ -1,4 +1,5 @@
-html_doc_pg_5 = '''
+# -*- encoding: utf-8 -*-
+html_doc = '''
 
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html dir="ltr">
