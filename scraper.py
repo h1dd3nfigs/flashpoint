@@ -55,7 +55,7 @@ def get_post_ids(soup):
 	post_ids = []
 	table_tag = soup.find("table", class_="forumline")
 
-	for span_tag in table_tag.find_all("span", class_="name"):
+	for span_tag in soup.find_all("span", class_="name"):
 		a_tag = span_tag.find('a')
 		post_id = a_tag.get('name')
 		post_ids.append(post_id)
@@ -72,7 +72,7 @@ def get_post_authors(soup):
 	post_authors = []
 	table_tag = soup.find("table", class_="forumline")
 
-	for span_tag in table_tag.find_all("span", class_="name"):
+	for span_tag in soup.find_all("span", class_="name"):
 		b_tag = span_tag.find('b')
 		post_author = b_tag.text
 		post_authors.append(post_author)
@@ -90,7 +90,7 @@ def get_post_dates(soup):
 	date_prefix = 'Posted: '
 	table_tag = soup.find("table", class_="forumline")
 
-	for span_tag in table_tag.find_all("span", class_="postdetails"):
+	for span_tag in soup.find_all("span", class_="postdetails"):
 		if date_prefix in span_tag.contents[0]:
 			post_dates.append(span_tag.contents[0].lstrip(date_prefix))
 
@@ -139,7 +139,7 @@ def get_quoted_post(span_tag, author='', nesting_level = 1):
 			pass
 
 
-		return [nesting_level, quote_body + ']']
+		return [nesting_level, quote_body ]
 
 
 def get_post_bodies(soup):
@@ -239,24 +239,25 @@ def get_post_bodies(soup):
 			#endfor
 		print('\ni is {0}\n'.format(i))
 
-		# if the previous element in this span_tag_result_set contained no text, then pop off that last item and concatenate this body string with that one because it was a quoted post and needs to be combined with the author's actual text
 		if i== 0 or (span_tag_result_set[i].contents == []):
 			print('in block 1')
 			print('appending\n {0} to position {1} of post_bodies list'.format(body.encode('utf-8'), len(post_bodies)))
 			post_bodies.append(body.encode('utf-8'))
 			# is_quote_post = False
 
-
-		elif i >= 1 and span_tag_result_set[i].contents != [] and span_tag_result_set[i-1].contents == []:
+		# if the previous element in this span_tag_result_set contained no text, then pop off that last item and concatenate this body string with that one because it was a quoted post and needs to be combined with the author's actual text
+		# elif i >= 1 and span_tag_result_set[i].contents != [] and span_tag_result_set[i-1].contents == []:
+		elif i >= 1 and span_tag_result_set[i].contents != [] and (span_tag_result_set[i-nesting_level].contents == [] or span_tag_result_set[i-nesting_level-1].contents == []):
 			print('in block 2')
-
-			prev_body = unicode(post_bodies.pop(), encoding='utf-8')
+			print('and luckily nesting level is {0}'.format(nesting_level))	
+			prev_body = unicode(post_bodies.pop()+']', encoding='utf-8')
 			prev_body += unicode.join(u'',body)
 
 			print('appending\n {0} to position {1} of post_bodies list'.format(prev_body.encode('utf-8'), len(post_bodies)))
 
 			post_bodies.append(prev_body.encode('utf-8'))
 			is_quote_post = False
+			nesting_level -= 1
 
 		# else, the previous element did not belong ot a quoted post so we can just append this additional body text as a new post's text
 		else:
