@@ -238,6 +238,13 @@ def get_post_bodies(soup):
 			
 			#endfor
 		print('\ni is {0}\n'.format(i))
+		print('nesting level is  now {0}'.format(nesting_level))
+
+
+
+		priors = [span_tag_result_set[x].contents for x in range(i - nesting_level - 1, i, 1)]
+		print('\n\npriors are {0}\n'.format(priors))
+
 
 		if i== 0 or (span_tag_result_set[i].contents == []):
 			print('in block 1')
@@ -246,8 +253,8 @@ def get_post_bodies(soup):
 			# is_quote_post = False
 
 		# if the previous element in this span_tag_result_set contained no text, then pop off that last item and concatenate this body string with that one because it was a quoted post and needs to be combined with the author's actual text
-		# elif i >= 1 and span_tag_result_set[i].contents != [] and span_tag_result_set[i-1].contents == []:
-		elif i >= 1 and span_tag_result_set[i].contents != [] and (span_tag_result_set[i-nesting_level].contents == [] or span_tag_result_set[i-nesting_level-1].contents == []):
+		# elif i >= 1 and span_tag_result_set[i].contents != [] and (span_tag_result_set[i-nesting_level].contents == [] or span_tag_result_set[i-nesting_level-1].contents == []):
+		elif i >= 1 and span_tag_result_set[i].contents != [] and any(p == [] for p in priors):
 			print('in block 2')
 			print('and luckily nesting level is {0}'.format(nesting_level))	
 			prev_body = unicode(post_bodies.pop()+']', encoding='utf-8')
