@@ -148,22 +148,42 @@ def get_post_bodies(soup):
 	table_tag = soup.find("table", class_="forumline")
 
 	nesting_level = 0
-	print('the number of <span class=postbody> are \n')
-	print(len(table_tag.find_all("span", class_="postbody")))
-	exit()
-	for span_tag in table_tag.find_all("span", class_="postbody"):
+	# print('the number of <span class=postbody> are \n')
+	# print(len(table_tag.find_all("span", class_="postbody")))
+	is_quote_post = False
+	body = unicode('', encoding ='utf-8')
+
+	i = 0
+	# print(len(table_tag.find_all("span", class_="postbody")))
+	# exit()
+	span_tag_result_set = soup.find_all("span", class_="postbody")
+	# print('the span tag result set contains {0} elements '.format(len(span_tag_result_set)))
+	# print(span_tag_result_set[2:4])
+
+	# return
+
+	for span_tag in span_tag_result_set:
+
+		print('{0} BACK TO OPENING SPAN TAGs'.format(i))
+		print('span tag is {0}'.format(span_tag))
+		# print(type(span_tag))
+		# print(span_tag)
+		# continue
+
+
+		# print('nesting level is {0}'.format(nesting_level))
 		# nesting_level of 0 means this post text does NOT have any quoted posts nested within it
 		# nesting_level of 1 means there's 1 quoted post nested in this post's text
 		# nesting_level of 2 means there are 2 quotes nested in this post's text, etc.
 
-		if nesting_level > 0:
-			is_quote_post = True 
-		else: 
-			is_quote_post = False
+		# if nesting_level > 0:
+		# 	is_quote_post = True 
+		# else: 
+		# 	is_quote_post = False
 
 		# if we're not looping grabbing post_body text for nested quotes, start a new string for a new post
-		if not is_quote_post:
-			body = unicode('', encoding ='utf-8')
+		# if not is_quote_post:
+		# 	body = unicode('', encoding ='utf-8')
 
 		if span_tag.contents == []: 			
 			#then the <span class="postbody"> is empty so it's prob a quoted post, so get the quote author
@@ -172,31 +192,32 @@ def get_post_bodies(soup):
 				# body = unicode('', encoding ='utf-8')
 
 			nesting_level, quote_body = get_quoted_post(span_tag)
+			print('nesting level is {0}'.format(nesting_level))
 
-			body += quote_body
-
-			print('\n.BEFORE..nesting level is {0}\n'.format(nesting_level))
+			body = quote_body
 			
-			if nesting_level != 0:
-				nesting_level -= 1
+			# if nesting_level != 0:
+			# 	nesting_level -= 1
+			# is_quote_post = True 
 
-			print('\nAFTER...nesting level is {0}\n'.format(nesting_level))
 
 		else:
 
 			# it's not a quoted post so put the postbody contents into a new post body's string
-			print('\n.BEFORE..nesting level is {0}\n'.format(nesting_level))
 			
-			if nesting_level != 0:
-				nesting_level -= 1
+			# if nesting_level != 0:
+			# 	nesting_level -= 1
+			
+			# if is_quote_post: 
+			body = unicode('', encoding ='utf-8')
 
-			print('\nAFTER...nesting level is {0}\n'.format(nesting_level))
+			# print('\nAFTER...nesting level is {0}\n'.format(nesting_level))
 
 			for text in span_tag.contents:
 
 				if text == '_________________':
 					# the underscore marks the end of a post body if the author ends posts with a signature
-					# is_quote_post = False
+					is_quote_post = False
 					break
 				
 				else:
@@ -216,13 +237,39 @@ def get_post_bodies(soup):
 						body += unicode.join(u'',text)
 			
 			#endfor
-		# print('\nNEW post body\n')
-		# print(body.encode('utf-8'))
-		post_bodies.append(body.encode('utf-8'))
-		
-		# is_quote_post = False
-		print(post_bodies)
+		print('\ni is {0}\n'.format(i))
 
+		# if the previous element in this span_tag_result_set contained no text, then pop off that last item and concatenate this body string with that one because it was a quoted post and needs to be combined with the author's actual text
+		if i== 0 or (span_tag_result_set[i].contents == []):
+			print('in block 1')
+			print('appending\n {0} to position {1} of post_bodies list'.format(body.encode('utf-8'), len(post_bodies)))
+			post_bodies.append(body.encode('utf-8'))
+			# is_quote_post = False
+
+
+		elif i >= 1 and span_tag_result_set[i].contents != [] and span_tag_result_set[i-1].contents == []:
+			print('in block 2')
+
+			prev_body = unicode(post_bodies.pop(), encoding='utf-8')
+			prev_body += unicode.join(u'',body)
+
+			print('appending\n {0} to position {1} of post_bodies list'.format(prev_body.encode('utf-8'), len(post_bodies)))
+
+			post_bodies.append(prev_body.encode('utf-8'))
+			is_quote_post = False
+
+		# else, the previous element did not belong ot a quoted post so we can just append this additional body text as a new post's text
+		else:
+			print('in block 3')
+			print('appending\n {0} to position {1} of post_bodies list'.format(body.encode('utf-8'), len(post_bodies)))
+
+			post_bodies.append(body.encode('utf-8'))
+			# is_quote_post = False
+		i += 1
+
+		
+	# print(post_bodies[1])
+	# exit()
 	return post_bodies
 
 def get_post_data_per_page(soup):
