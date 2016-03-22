@@ -9,36 +9,36 @@ html_doc = '''
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta http-equiv="Content-Style-Type" content="text/css">
 
-<link rel="top" href="./index.php?sid=b3600e50df77109dcc73be1e10f23c1d" title="Classic cars forum & vehicle restoration. Forum Index" />
-<link rel="search" href="./search.php?sid=b3600e50df77109dcc73be1e10f23c1d" title="Search" />
-<link rel="help" href="./faq.php?sid=b3600e50df77109dcc73be1e10f23c1d" title="FAQ" />
-<link rel="author" href="./memberlist.php?sid=b3600e50df77109dcc73be1e10f23c1d" title="Memberlist" />
-<link rel="prev" href="viewtopic.php?t=12591&amp;view=previous&amp;sid=b3600e50df77109dcc73be1e10f23c1d" title="View previous topic" />
-<link rel="next" href="viewtopic.php?t=12591&amp;view=next&amp;sid=b3600e50df77109dcc73be1e10f23c1d" title="View next topic" />
-<link rel="up" href="viewforum.php?f=1&amp;sid=b3600e50df77109dcc73be1e10f23c1d" title="Classic & Vintage Cars - General Chat" />
-<link rel="chapter forum" href="viewforum.php?f=38&amp;sid=b3600e50df77109dcc73be1e10f23c1d" title="Welcome To The OldClassicCar Forum" />
-<link rel="chapter forum" href="viewforum.php?f=23&amp;sid=b3600e50df77109dcc73be1e10f23c1d" title="Find Old Car Parts & Books on Ebay" />
-<link rel="chapter forum" href="viewforum.php?f=1&amp;sid=b3600e50df77109dcc73be1e10f23c1d" title="Classic & Vintage Cars - General Chat" />
-<link rel="chapter forum" href="viewforum.php?f=13&amp;sid=b3600e50df77109dcc73be1e10f23c1d" title="Classic Lorries, Steam, Vans, Pickup Trucks, Tractors, & Plant" />
-<link rel="chapter forum" href="viewforum.php?f=36&amp;sid=b3600e50df77109dcc73be1e10f23c1d" title="Classic Motorcycles & Bicycles" />
-<link rel="chapter forum" href="viewforum.php?f=41&amp;sid=b3600e50df77109dcc73be1e10f23c1d" title="Bodywork & Paint Restoration" />
-<link rel="chapter forum" href="viewforum.php?f=40&amp;sid=b3600e50df77109dcc73be1e10f23c1d" title="Electrical Restoration" />
-<link rel="chapter forum" href="viewforum.php?f=42&amp;sid=b3600e50df77109dcc73be1e10f23c1d" title="Mechanical Restoration" />
-<link rel="chapter forum" href="viewforum.php?f=24&amp;sid=b3600e50df77109dcc73be1e10f23c1d" title="General Restoration Advice" />
-<link rel="chapter forum" href="viewforum.php?f=31&amp;sid=b3600e50df77109dcc73be1e10f23c1d" title="Vintage Motoring-Related Toys, Tools & Accessories" />
-<link rel="chapter forum" href="viewforum.php?f=25&amp;sid=b3600e50df77109dcc73be1e10f23c1d" title="Interesting Links" />
-<link rel="chapter forum" href="viewforum.php?f=43&amp;sid=b3600e50df77109dcc73be1e10f23c1d" title="All Other Cars & Vehicles." />
-<link rel="chapter forum" href="viewforum.php?f=44&amp;sid=b3600e50df77109dcc73be1e10f23c1d" title="Austin" />
-<link rel="chapter forum" href="viewforum.php?f=45&amp;sid=b3600e50df77109dcc73be1e10f23c1d" title="Ford" />
-<link rel="chapter forum" href="viewforum.php?f=52&amp;sid=b3600e50df77109dcc73be1e10f23c1d" title="Jaguar, Daimler & SS" />
-<link rel="chapter forum" href="viewforum.php?f=46&amp;sid=b3600e50df77109dcc73be1e10f23c1d" title="Morris" />
-<link rel="chapter forum" href="viewforum.php?f=49&amp;sid=b3600e50df77109dcc73be1e10f23c1d" title="Rootes Group & Original Companies (Hillman, Humber, Singer, Sunbeam, Commer etc)" />
-<link rel="chapter forum" href="viewforum.php?f=48&amp;sid=b3600e50df77109dcc73be1e10f23c1d" title="Triumph" />
-<link rel="chapter forum" href="viewforum.php?f=26&amp;sid=b3600e50df77109dcc73be1e10f23c1d" title="Classic Caravans" />
-<link rel="chapter forum" href="viewforum.php?f=54&amp;sid=b3600e50df77109dcc73be1e10f23c1d" title="Historic Aviation" />
-<link rel="chapter forum" href="viewforum.php?f=29&amp;sid=b3600e50df77109dcc73be1e10f23c1d" title="Your Adverts & Ebay 'finds'" />
-<link rel="chapter forum" href="viewforum.php?f=34&amp;sid=b3600e50df77109dcc73be1e10f23c1d" title="Show News, Reports, Press Releases & Photographs" />
-<link rel="chapter forum" href="viewforum.php?f=39&amp;sid=b3600e50df77109dcc73be1e10f23c1d" title="General Motoring & Collectables" />
+<link rel="top" href="./index.php" title="Classic cars forum & vehicle restoration. Forum Index" />
+<link rel="search" href="./search.php" title="Search" />
+<link rel="help" href="./faq.php" title="FAQ" />
+<link rel="author" href="./memberlist.php" title="Memberlist" />
+<link rel="prev" href="viewtopic.php?t=12591&amp;view=previous" title="View previous topic" />
+<link rel="next" href="viewtopic.php?t=12591&amp;view=next" title="View next topic" />
+<link rel="up" href="viewforum.php?f=1" title="Classic & Vintage Cars - General Chat" />
+<link rel="chapter forum" href="viewforum.php?f=38" title="Welcome To The OldClassicCar Forum" />
+<link rel="chapter forum" href="viewforum.php?f=23" title="Find Old Car Parts & Books on Ebay" />
+<link rel="chapter forum" href="viewforum.php?f=1" title="Classic & Vintage Cars - General Chat" />
+<link rel="chapter forum" href="viewforum.php?f=13" title="Classic Lorries, Steam, Vans, Pickup Trucks, Tractors, & Plant" />
+<link rel="chapter forum" href="viewforum.php?f=36" title="Classic Motorcycles & Bicycles" />
+<link rel="chapter forum" href="viewforum.php?f=41" title="Bodywork & Paint Restoration" />
+<link rel="chapter forum" href="viewforum.php?f=40" title="Electrical Restoration" />
+<link rel="chapter forum" href="viewforum.php?f=42" title="Mechanical Restoration" />
+<link rel="chapter forum" href="viewforum.php?f=24" title="General Restoration Advice" />
+<link rel="chapter forum" href="viewforum.php?f=31" title="Vintage Motoring-Related Toys, Tools & Accessories" />
+<link rel="chapter forum" href="viewforum.php?f=25" title="Interesting Links" />
+<link rel="chapter forum" href="viewforum.php?f=43" title="All Other Cars & Vehicles." />
+<link rel="chapter forum" href="viewforum.php?f=44" title="Austin" />
+<link rel="chapter forum" href="viewforum.php?f=45" title="Ford" />
+<link rel="chapter forum" href="viewforum.php?f=52" title="Jaguar, Daimler & SS" />
+<link rel="chapter forum" href="viewforum.php?f=46" title="Morris" />
+<link rel="chapter forum" href="viewforum.php?f=49" title="Rootes Group & Original Companies (Hillman, Humber, Singer, Sunbeam, Commer etc)" />
+<link rel="chapter forum" href="viewforum.php?f=48" title="Triumph" />
+<link rel="chapter forum" href="viewforum.php?f=26" title="Classic Caravans" />
+<link rel="chapter forum" href="viewforum.php?f=54" title="Historic Aviation" />
+<link rel="chapter forum" href="viewforum.php?f=29" title="Your Adverts & Ebay 'finds'" />
+<link rel="chapter forum" href="viewforum.php?f=34" title="Show News, Reports, Press Releases & Photographs" />
+<link rel="chapter forum" href="viewforum.php?f=39" title="General Motoring & Collectables" />
 
 <title>Classic Car Rescue - C5</title>
 <!-- link rel="stylesheet" href="templates/subSilver/subSilver.css" type="text/css" -->
@@ -285,12 +285,12 @@ document.write('\x3Cscript type="text/javascript" charset="utf-8" src="http://ad
 
 				<table cellspacing="0" cellpadding="2" border="0">
 					<tr>
-						<td align="center" valign="top" nowrap="nowrap"><span class="mainmenu">&nbsp;<a href="faq.php?sid=b3600e50df77109dcc73be1e10f23c1d" class="mainmenu"><img src="templates/subSilver/images/icon_mini_faq.gif" width="12" height="13" border="0" alt="FAQ" hspace="3" />FAQ</a>&nbsp; &nbsp;<a href="search.php?sid=b3600e50df77109dcc73be1e10f23c1d" class="mainmenu"><img src="templates/subSilver/images/icon_mini_search.gif" width="12" height="13" border="0" alt="Search" hspace="3" />Search</a>&nbsp; &nbsp;<a href="memberlist.php?sid=b3600e50df77109dcc73be1e10f23c1d" class="mainmenu"><img src="templates/subSilver/images/icon_mini_members.gif" width="12" height="13" border="0" alt="Memberlist" hspace="3" />Memberlist</a>&nbsp; &nbsp;<a href="groupcp.php?sid=b3600e50df77109dcc73be1e10f23c1d" class="mainmenu"><img src="templates/subSilver/images/icon_mini_groups.gif" width="12" height="13" border="0" alt="Usergroups" hspace="3" />Usergroups</a>&nbsp;
+						<td align="center" valign="top" nowrap="nowrap"><span class="mainmenu">&nbsp;<a href="faq.php" class="mainmenu"><img src="templates/subSilver/images/icon_mini_faq.gif" width="12" height="13" border="0" alt="FAQ" hspace="3" />FAQ</a>&nbsp; &nbsp;<a href="search.php" class="mainmenu"><img src="templates/subSilver/images/icon_mini_search.gif" width="12" height="13" border="0" alt="Search" hspace="3" />Search</a>&nbsp; &nbsp;<a href="memberlist.php" class="mainmenu"><img src="templates/subSilver/images/icon_mini_members.gif" width="12" height="13" border="0" alt="Memberlist" hspace="3" />Memberlist</a>&nbsp; &nbsp;<a href="groupcp.php" class="mainmenu"><img src="templates/subSilver/images/icon_mini_groups.gif" width="12" height="13" border="0" alt="Usergroups" hspace="3" />Usergroups</a>&nbsp;
 
 						</span></td>
 					</tr>
 					<tr>
-						<td height="25" align="center" valign="top" nowrap="nowrap"><span class="mainmenu">&nbsp;<a href="profile.php?mode=editprofile&amp;sid=b3600e50df77109dcc73be1e10f23c1d" class="mainmenu"><img src="templates/subSilver/images/icon_mini_profile.gif" width="12" height="13" border="0" alt="Profile" hspace="3" />Profile</a>&nbsp; &nbsp;<a href="privmsg.php?folder=inbox&amp;sid=b3600e50df77109dcc73be1e10f23c1d" class="mainmenu"><img src="templates/subSilver/images/icon_mini_message.gif" width="12" height="13" border="0" alt="Log in to check your private messages" hspace="3" />Log in to check your private messages</a>&nbsp; &nbsp;<a href="login.php?sid=b3600e50df77109dcc73be1e10f23c1d" class="mainmenu"><img src="templates/subSilver/images/icon_mini_login.gif" width="12" height="13" border="0" alt="Log in" hspace="3" />Log in</a>&nbsp;</span></td>
+						<td height="25" align="center" valign="top" nowrap="nowrap"><span class="mainmenu">&nbsp;<a href="profile.php?mode=editprofile" class="mainmenu"><img src="templates/subSilver/images/icon_mini_profile.gif" width="12" height="13" border="0" alt="Profile" hspace="3" />Profile</a>&nbsp; &nbsp;<a href="privmsg.php?folder=inbox" class="mainmenu"><img src="templates/subSilver/images/icon_mini_message.gif" width="12" height="13" border="0" alt="Log in to check your private messages" hspace="3" />Log in to check your private messages</a>&nbsp; &nbsp;<a href="login.php" class="mainmenu"><img src="templates/subSilver/images/icon_mini_login.gif" width="12" height="13" border="0" alt="Log in" hspace="3" />Log in</a>&nbsp;</span></td>
 					</tr>
 				</table>
 
@@ -312,18 +312,18 @@ document.write('\x3Cscript type="text/javascript" charset="utf-8" src="http://ad
 
 <table width="100%" cellspacing="2" cellpadding="2" border="0">
   <tr>
-	<td align="left" valign="bottom" colspan="2"><a class="maintitle" href="viewtopic.php?t=12591&amp;start=30&amp;postdays=0&amp;postorder=asc&amp;highlight=&amp;sid=b3600e50df77109dcc73be1e10f23c1d">Classic Car Rescue - C5</a><br />
+	<td align="left" valign="bottom" colspan="2"><a class="maintitle" href="viewtopic.php?t=12591&amp;start=30&amp;postdays=0&amp;postorder=asc&amp;highlight=">Classic Car Rescue - C5</a><br />
 
-	  <span class="gensmall"><b>Goto page  <a href="viewtopic.php?t=12591&amp;postdays=0&amp;postorder=asc&amp;start=15&amp;sid=b3600e50df77109dcc73be1e10f23c1d">Previous</a>&nbsp;&nbsp;<a href="viewtopic.php?t=12591&amp;postdays=0&amp;postorder=asc&amp;start=0&amp;sid=b3600e50df77109dcc73be1e10f23c1d">1</a>, <a href="viewtopic.php?t=12591&amp;postdays=0&amp;postorder=asc&amp;start=15&amp;sid=b3600e50df77109dcc73be1e10f23c1d">2</a>, <b>3</b>, <a href="viewtopic.php?t=12591&amp;postdays=0&amp;postorder=asc&amp;start=45&amp;sid=b3600e50df77109dcc73be1e10f23c1d">4</a>, <a href="viewtopic.php?t=12591&amp;postdays=0&amp;postorder=asc&amp;start=60&amp;sid=b3600e50df77109dcc73be1e10f23c1d">5</a>, <a href="viewtopic.php?t=12591&amp;postdays=0&amp;postorder=asc&amp;start=75&amp;sid=b3600e50df77109dcc73be1e10f23c1d">6</a>, <a href="viewtopic.php?t=12591&amp;postdays=0&amp;postorder=asc&amp;start=90&amp;sid=b3600e50df77109dcc73be1e10f23c1d">7</a>, <a href="viewtopic.php?t=12591&amp;postdays=0&amp;postorder=asc&amp;start=105&amp;sid=b3600e50df77109dcc73be1e10f23c1d">8</a>, <a href="viewtopic.php?t=12591&amp;postdays=0&amp;postorder=asc&amp;start=120&amp;sid=b3600e50df77109dcc73be1e10f23c1d">9</a>&nbsp;&nbsp;<a href="viewtopic.php?t=12591&amp;postdays=0&amp;postorder=asc&amp;start=45&amp;sid=b3600e50df77109dcc73be1e10f23c1d">Next</a></b>  </span></td>
+	  <span class="gensmall"><b>Goto page  <a href="viewtopic.php?t=12591&amp;postdays=0&amp;postorder=asc&amp;start=15">Previous</a>&nbsp;&nbsp;<a href="viewtopic.php?t=12591&amp;postdays=0&amp;postorder=asc&amp;start=0">1</a>, <a href="viewtopic.php?t=12591&amp;postdays=0&amp;postorder=asc&amp;start=15">2</a>, <b>3</b>, <a href="viewtopic.php?t=12591&amp;postdays=0&amp;postorder=asc&amp;start=45">4</a>, <a href="viewtopic.php?t=12591&amp;postdays=0&amp;postorder=asc&amp;start=60">5</a>, <a href="viewtopic.php?t=12591&amp;postdays=0&amp;postorder=asc&amp;start=75">6</a>, <a href="viewtopic.php?t=12591&amp;postdays=0&amp;postorder=asc&amp;start=90">7</a>, <a href="viewtopic.php?t=12591&amp;postdays=0&amp;postorder=asc&amp;start=105">8</a>, <a href="viewtopic.php?t=12591&amp;postdays=0&amp;postorder=asc&amp;start=120">9</a>&nbsp;&nbsp;<a href="viewtopic.php?t=12591&amp;postdays=0&amp;postorder=asc&amp;start=45">Next</a></b>  </span></td>
 
   </tr>
 </table>
 
 <table width="100%" cellspacing="2" cellpadding="2" border="0">
   <tr>
-	<td align="left" valign="bottom" nowrap="nowrap"><span class="nav"><a href="posting.php?mode=newtopic&amp;f=1&amp;sid=b3600e50df77109dcc73be1e10f23c1d"><img src="templates/subSilver/images/lang_english/post.gif" border="0" alt="Post new topic" align="middle" /></a>&nbsp;&nbsp;&nbsp;<a href="posting.php?mode=reply&amp;t=12591&amp;sid=b3600e50df77109dcc73be1e10f23c1d"><img src="templates/subSilver/images/lang_english/reply.gif" border="0" alt="Reply to topic" align="middle" /></a></span></td>
+	<td align="left" valign="bottom" nowrap="nowrap"><span class="nav"><a href="posting.php?mode=newtopic&amp;f=1"><img src="templates/subSilver/images/lang_english/post.gif" border="0" alt="Post new topic" align="middle" /></a>&nbsp;&nbsp;&nbsp;<a href="posting.php?mode=reply&amp;t=12591"><img src="templates/subSilver/images/lang_english/reply.gif" border="0" alt="Reply to topic" align="middle" /></a></span></td>
 	<td align="left" valign="middle" width="100%"><span class="nav">&nbsp;&nbsp;&nbsp;<a href="http://www.oldclassiccar.co.uk/forum/phpbb/phpBB2/" class="nav">Classic cars forum & vehicle restoration. Forum Index</a>
-	  -> <a href="viewforum.php?f=1&amp;sid=b3600e50df77109dcc73be1e10f23c1d" class="nav">Classic & Vintage Cars - General Chat</a></span></td>
+	  -> <a href="viewforum.php?f=1" class="nav">Classic & Vintage Cars - General Chat</a></span></td>
   </tr>
 </table>
 
@@ -346,8 +346,8 @@ document.write('\x3Cscript type="text/javascript" charset="utf-8" src="http://ad
 		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="87253"></a><b>D4B</b></span><br /><span class="postdetails"><br /><img src="images/avatars/177567476555340a6bca317.jpg" alt="" border="0" /><br /><br />Joined: 28 Dec 2010<br />Posts: 1837<br />Location: Hampshire UK</span><br /></td>
 		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
 			<tr>
-				<td width="100%"><a href="viewtopic.php?p=87253&amp;sid=b3600e50df77109dcc73be1e10f23c1d#87253"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Fri Sep 28, 2012 8:20 am<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
-				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=87253&amp;sid=b3600e50df77109dcc73be1e10f23c1d"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+				<td width="100%"><a href="viewtopic.php?p=87253#87253"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Fri Sep 28, 2012 8:20 am<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=87253"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
 			</tr>
 			<tr>
 				<td colspan="2"><hr /></td>
@@ -365,7 +365,7 @@ Bernie should have stuck to Banglar Bangers</span><span class="gensmall"></span>
 		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
 		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
 			<tr>
-				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=1858&amp;sid=b3600e50df77109dcc73be1e10f23c1d"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=1858&amp;sid=b3600e50df77109dcc73be1e10f23c1d"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=1858"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=1858"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
 
 	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
 		document.write(' ');
@@ -380,11 +380,11 @@ Bernie should have stuck to Banglar Bangers</span><span class="gensmall"></span>
 		<td class="spaceRow" colspan="2" height="1"><img src="templates/subSilver/images/spacer.gif" alt="" width="1" height="1" /></td>
 	</tr>
 	<tr>
-		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="87254"></a><b>ukdave2002</b></span><br /><span class="postdetails"><br /><br /><br />Joined: 23 Nov 2007<br />Posts: 2929<br />Location: South Cheshire</span><br /></td>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="87254"></a><b>ukdave2002</b></span><br /><span class="postdetails"><br /><br /><br />Joined: 23 Nov 2007<br />Posts: 2930<br />Location: South Cheshire</span><br /></td>
 		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
 			<tr>
-				<td width="100%"><a href="viewtopic.php?p=87254&amp;sid=b3600e50df77109dcc73be1e10f23c1d#87254"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Fri Sep 28, 2012 8:35 am<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: Re: Poor Jag</span></td>
-				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=87254&amp;sid=b3600e50df77109dcc73be1e10f23c1d"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+				<td width="100%"><a href="viewtopic.php?p=87254#87254"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Fri Sep 28, 2012 8:35 am<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: Re: Poor Jag</span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=87254"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
 			</tr>
 			<tr>
 				<td colspan="2"><hr /></td>
@@ -418,7 +418,7 @@ Dave</span><span class="gensmall"></span></td>
 		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
 		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
 			<tr>
-				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=17&amp;sid=b3600e50df77109dcc73be1e10f23c1d"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=17&amp;sid=b3600e50df77109dcc73be1e10f23c1d"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=17"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=17"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
 
 	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
 		document.write(' ');
@@ -436,8 +436,8 @@ Dave</span><span class="gensmall"></span></td>
 		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="87255"></a><b>MikeEdwards</b></span><br /><span class="postdetails"><br /><br /><br />Joined: 25 May 2011<br />Posts: 885<br />Location: South Cheshire</span><br /></td>
 		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
 			<tr>
-				<td width="100%"><a href="viewtopic.php?p=87255&amp;sid=b3600e50df77109dcc73be1e10f23c1d#87255"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Fri Sep 28, 2012 10:38 am<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
-				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=87255&amp;sid=b3600e50df77109dcc73be1e10f23c1d"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+				<td width="100%"><a href="viewtopic.php?p=87255#87255"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Fri Sep 28, 2012 10:38 am<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=87255"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
 			</tr>
 			<tr>
 				<td colspan="2"><hr /></td>
@@ -463,7 +463,7 @@ I have trouble believing that second-hand brake disc was going anywhere near the
 		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
 		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
 			<tr>
-				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=2060&amp;sid=b3600e50df77109dcc73be1e10f23c1d"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=2060&amp;sid=b3600e50df77109dcc73be1e10f23c1d"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>  <a href="http://www.firenza.net" target="_userwww" rel="nofollow"><img src="templates/subSilver/images/lang_english/icon_www.gif" alt="Visit poster's website" title="Visit poster's website" border="0" /></a>   <script language="JavaScript" type="text/javascript"><!--
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=2060"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=2060"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>  <a href="http://www.firenza.net" target="_userwww" rel="nofollow"><img src="templates/subSilver/images/lang_english/icon_www.gif" alt="Visit poster's website" title="Visit poster's website" border="0" /></a>   <script language="JavaScript" type="text/javascript"><!--
 
 	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
 		document.write(' ');
@@ -481,8 +481,8 @@ I have trouble believing that second-hand brake disc was going anywhere near the
 		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="87257"></a><b>Inglewood</b></span><br /><span class="postdetails"><br /><img src="images/avatars/4245825464d3721af3c3df.jpg" alt="" border="0" /><br /><br />Joined: 28 Dec 2010<br />Posts: 160<br />Location: Nottingham</span><br /></td>
 		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
 			<tr>
-				<td width="100%"><a href="viewtopic.php?p=87257&amp;sid=b3600e50df77109dcc73be1e10f23c1d#87257"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Fri Sep 28, 2012 10:59 am<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
-				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=87257&amp;sid=b3600e50df77109dcc73be1e10f23c1d"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+				<td width="100%"><a href="viewtopic.php?p=87257#87257"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Fri Sep 28, 2012 10:59 am<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=87257"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
 			</tr>
 			<tr>
 				<td colspan="2"><hr /></td>
@@ -516,7 +516,7 @@ Best get it back to California before it rusts and the P38 falls off like fish s
 		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
 		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
 			<tr>
-				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=1860&amp;sid=b3600e50df77109dcc73be1e10f23c1d"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=1860&amp;sid=b3600e50df77109dcc73be1e10f23c1d"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=1860"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=1860"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
 
 	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
 		document.write(' ');
@@ -531,11 +531,11 @@ Best get it back to California before it rusts and the P38 falls off like fish s
 		<td class="spaceRow" colspan="2" height="1"><img src="templates/subSilver/images/spacer.gif" alt="" width="1" height="1" /></td>
 	</tr>
 	<tr>
-		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="87259"></a><b>ukdave2002</b></span><br /><span class="postdetails"><br /><br /><br />Joined: 23 Nov 2007<br />Posts: 2929<br />Location: South Cheshire</span><br /></td>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="87259"></a><b>ukdave2002</b></span><br /><span class="postdetails"><br /><br /><br />Joined: 23 Nov 2007<br />Posts: 2930<br />Location: South Cheshire</span><br /></td>
 		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
 			<tr>
-				<td width="100%"><a href="viewtopic.php?p=87259&amp;sid=b3600e50df77109dcc73be1e10f23c1d#87259"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Fri Sep 28, 2012 11:42 am<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
-				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=87259&amp;sid=b3600e50df77109dcc73be1e10f23c1d"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+				<td width="100%"><a href="viewtopic.php?p=87259#87259"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Fri Sep 28, 2012 11:42 am<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=87259"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
 			</tr>
 			<tr>
 				<td colspan="2"><hr /></td>
@@ -559,7 +559,7 @@ Dave</span><span class="gensmall"></span></td>
 		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
 		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
 			<tr>
-				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=17&amp;sid=b3600e50df77109dcc73be1e10f23c1d"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=17&amp;sid=b3600e50df77109dcc73be1e10f23c1d"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=17"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=17"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
 
 	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
 		document.write(' ');
@@ -577,8 +577,8 @@ Dave</span><span class="gensmall"></span></td>
 		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="87273"></a><b>47Jag</b></span><br /><span class="postdetails"><br /><br /><br />Joined: 26 Jun 2008<br />Posts: 935<br />Location: Bothwell, Scotland</span><br /></td>
 		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
 			<tr>
-				<td width="100%"><a href="viewtopic.php?p=87273&amp;sid=b3600e50df77109dcc73be1e10f23c1d#87273"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Fri Sep 28, 2012 7:21 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
-				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=87273&amp;sid=b3600e50df77109dcc73be1e10f23c1d"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+				<td width="100%"><a href="viewtopic.php?p=87273#87273"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Fri Sep 28, 2012 7:21 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=87273"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
 			</tr>
 			<tr>
 				<td colspan="2"><hr /></td>
@@ -596,7 +596,7 @@ Art</span><span class="gensmall"></span></td>
 		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
 		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
 			<tr>
-				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=570&amp;sid=b3600e50df77109dcc73be1e10f23c1d"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=570&amp;sid=b3600e50df77109dcc73be1e10f23c1d"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=570"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=570"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
 
 	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
 		document.write(' ');
@@ -614,8 +614,8 @@ Art</span><span class="gensmall"></span></td>
 		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="87274"></a><b>gresham flyer</b></span><br /><span class="postdetails"><br /><img src="images/avatars/870375934f2ee4e383c00.jpg" alt="" border="0" /><br /><br />Joined: 06 Sep 2008<br />Posts: 1424<br /></span><br /></td>
 		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
 			<tr>
-				<td width="100%"><a href="viewtopic.php?p=87274&amp;sid=b3600e50df77109dcc73be1e10f23c1d#87274"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Fri Sep 28, 2012 7:35 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
-				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=87274&amp;sid=b3600e50df77109dcc73be1e10f23c1d"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+				<td width="100%"><a href="viewtopic.php?p=87274#87274"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Fri Sep 28, 2012 7:35 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=87274"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
 			</tr>
 			<tr>
 				<td colspan="2"><hr /></td>
@@ -689,7 +689,7 @@ Another Rover P5B saved from the banger boy`s.
 		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
 		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
 			<tr>
-				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=681&amp;sid=b3600e50df77109dcc73be1e10f23c1d"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=681&amp;sid=b3600e50df77109dcc73be1e10f23c1d"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=681"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=681"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
 
 	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
 		document.write(' ');
@@ -704,11 +704,11 @@ Another Rover P5B saved from the banger boy`s.
 		<td class="spaceRow" colspan="2" height="1"><img src="templates/subSilver/images/spacer.gif" alt="" width="1" height="1" /></td>
 	</tr>
 	<tr>
-		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="87275"></a><b>ukdave2002</b></span><br /><span class="postdetails"><br /><br /><br />Joined: 23 Nov 2007<br />Posts: 2929<br />Location: South Cheshire</span><br /></td>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="87275"></a><b>ukdave2002</b></span><br /><span class="postdetails"><br /><br /><br />Joined: 23 Nov 2007<br />Posts: 2930<br />Location: South Cheshire</span><br /></td>
 		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
 			<tr>
-				<td width="100%"><a href="viewtopic.php?p=87275&amp;sid=b3600e50df77109dcc73be1e10f23c1d#87275"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Fri Sep 28, 2012 7:54 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
-				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=87275&amp;sid=b3600e50df77109dcc73be1e10f23c1d"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+				<td width="100%"><a href="viewtopic.php?p=87275#87275"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Fri Sep 28, 2012 7:54 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=87275"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
 			</tr>
 			<tr>
 				<td colspan="2"><hr /></td>
@@ -758,7 +758,7 @@ Dave</span><span class="gensmall"></span></td>
 		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
 		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
 			<tr>
-				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=17&amp;sid=b3600e50df77109dcc73be1e10f23c1d"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=17&amp;sid=b3600e50df77109dcc73be1e10f23c1d"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=17"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=17"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
 
 	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
 		document.write(' ');
@@ -773,11 +773,11 @@ Dave</span><span class="gensmall"></span></td>
 		<td class="spaceRow" colspan="2" height="1"><img src="templates/subSilver/images/spacer.gif" alt="" width="1" height="1" /></td>
 	</tr>
 	<tr>
-		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="87342"></a><b>Rick</b></span><br /><span class="postdetails">Site Admin<br /><img src="images/avatars/1622729613519b33bc3e86c.jpg" alt="" border="0" /><br /><br />Joined: 27 Apr 2005<br />Posts: 16052<br />Location: S. Cheshire</span><br /></td>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="87342"></a><b>Rick</b></span><br /><span class="postdetails">Site Admin<br /><img src="images/avatars/1622729613519b33bc3e86c.jpg" alt="" border="0" /><br /><br />Joined: 27 Apr 2005<br />Posts: 16058<br />Location: S. Cheshire</span><br /></td>
 		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
 			<tr>
-				<td width="100%"><a href="viewtopic.php?p=87342&amp;sid=b3600e50df77109dcc73be1e10f23c1d#87342"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Mon Oct 01, 2012 10:16 am<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
-				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=87342&amp;sid=b3600e50df77109dcc73be1e10f23c1d"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+				<td width="100%"><a href="viewtopic.php?p=87342#87342"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Mon Oct 01, 2012 10:16 am<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=87342"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
 			</tr>
 			<tr>
 				<td colspan="2"><hr /></td>
@@ -801,7 +801,7 @@ Various 1930s-1960s relics - Austin, Morris, Bedford, Dodge etc.</span><span cla
 		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
 		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
 			<tr>
-				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=15&amp;sid=b3600e50df77109dcc73be1e10f23c1d"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=15&amp;sid=b3600e50df77109dcc73be1e10f23c1d"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=15"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=15"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
 
 	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
 		document.write(' ');
@@ -819,8 +819,8 @@ Various 1930s-1960s relics - Austin, Morris, Bedford, Dodge etc.</span><span cla
 		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="87367"></a><b>Roger-hatchy</b></span><br /><span class="postdetails"><br /><img src="images/avatars/95389033752f2fd9e599d3.jpg" alt="" border="0" /><br /><br />Joined: 07 Dec 2007<br />Posts: 2133<br />Location: Tiptree, Essex</span><br /></td>
 		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
 			<tr>
-				<td width="100%"><a href="viewtopic.php?p=87367&amp;sid=b3600e50df77109dcc73be1e10f23c1d#87367"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Mon Oct 01, 2012 2:40 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
-				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=87367&amp;sid=b3600e50df77109dcc73be1e10f23c1d"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+				<td width="100%"><a href="viewtopic.php?p=87367#87367"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Mon Oct 01, 2012 2:40 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=87367"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
 			</tr>
 			<tr>
 				<td colspan="2"><hr /></td>
@@ -834,7 +834,7 @@ Various 1930s-1960s relics - Austin, Morris, Bedford, Dodge etc.</span><span cla
 		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
 		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
 			<tr>
-				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=238&amp;sid=b3600e50df77109dcc73be1e10f23c1d"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=238&amp;sid=b3600e50df77109dcc73be1e10f23c1d"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>   <a href="aim:goim?screenname=4+Peakes+close&amp;message=Hello+Are+you+there?"><img src="templates/subSilver/images/lang_english/icon_aim.gif" alt="AIM Address" title="AIM Address" border="0" /></a>  <script language="JavaScript" type="text/javascript"><!--
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=238"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=238"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>   <a href="aim:goim?screenname=4+Peakes+close&amp;message=Hello+Are+you+there?"><img src="templates/subSilver/images/lang_english/icon_aim.gif" alt="AIM Address" title="AIM Address" border="0" /></a>  <script language="JavaScript" type="text/javascript"><!--
 
 	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
 		document.write(' ');
@@ -849,11 +849,11 @@ Various 1930s-1960s relics - Austin, Morris, Bedford, Dodge etc.</span><span cla
 		<td class="spaceRow" colspan="2" height="1"><img src="templates/subSilver/images/spacer.gif" alt="" width="1" height="1" /></td>
 	</tr>
 	<tr>
-		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="87375"></a><b>Rick</b></span><br /><span class="postdetails">Site Admin<br /><img src="images/avatars/1622729613519b33bc3e86c.jpg" alt="" border="0" /><br /><br />Joined: 27 Apr 2005<br />Posts: 16052<br />Location: S. Cheshire</span><br /></td>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="87375"></a><b>Rick</b></span><br /><span class="postdetails">Site Admin<br /><img src="images/avatars/1622729613519b33bc3e86c.jpg" alt="" border="0" /><br /><br />Joined: 27 Apr 2005<br />Posts: 16058<br />Location: S. Cheshire</span><br /></td>
 		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
 			<tr>
-				<td width="100%"><a href="viewtopic.php?p=87375&amp;sid=b3600e50df77109dcc73be1e10f23c1d#87375"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Mon Oct 01, 2012 3:12 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
-				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=87375&amp;sid=b3600e50df77109dcc73be1e10f23c1d"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+				<td width="100%"><a href="viewtopic.php?p=87375#87375"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Mon Oct 01, 2012 3:12 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=87375"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
 			</tr>
 			<tr>
 				<td colspan="2"><hr /></td>
@@ -877,7 +877,7 @@ Various 1930s-1960s relics - Austin, Morris, Bedford, Dodge etc.</span><span cla
 		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
 		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
 			<tr>
-				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=15&amp;sid=b3600e50df77109dcc73be1e10f23c1d"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=15&amp;sid=b3600e50df77109dcc73be1e10f23c1d"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=15"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=15"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
 
 	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
 		document.write(' ');
@@ -895,8 +895,8 @@ Various 1930s-1960s relics - Austin, Morris, Bedford, Dodge etc.</span><span cla
 		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="87377"></a><b>pigtin</b></span><br /><span class="postdetails"><br /><img src="http://i158.photobucket.com/albums/t103/donthebat/Pigtinandme.jpg" alt="" border="0" /><br /><br />Joined: 23 Nov 2007<br />Posts: 1877<br />Location: Herne Bay</span><br /></td>
 		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
 			<tr>
-				<td width="100%"><a href="viewtopic.php?p=87377&amp;sid=b3600e50df77109dcc73be1e10f23c1d#87377"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Mon Oct 01, 2012 3:27 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
-				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=87377&amp;sid=b3600e50df77109dcc73be1e10f23c1d"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+				<td width="100%"><a href="viewtopic.php?p=87377#87377"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Mon Oct 01, 2012 3:27 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=87377"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
 			</tr>
 			<tr>
 				<td colspan="2"><hr /></td>
@@ -910,7 +910,7 @@ Various 1930s-1960s relics - Austin, Morris, Bedford, Dodge etc.</span><span cla
 		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
 		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
 			<tr>
-				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=40&amp;sid=b3600e50df77109dcc73be1e10f23c1d"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=40&amp;sid=b3600e50df77109dcc73be1e10f23c1d"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=40"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=40"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
 
 	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
 		document.write(' ');
@@ -928,8 +928,8 @@ Various 1930s-1960s relics - Austin, Morris, Bedford, Dodge etc.</span><span cla
 		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="87378"></a><b>Doz</b></span><br /><span class="postdetails"><br /><br /><br />Joined: 12 Dec 2011<br />Posts: 45<br />Location: Surrey/Sussex border</span><br /></td>
 		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
 			<tr>
-				<td width="100%"><a href="viewtopic.php?p=87378&amp;sid=b3600e50df77109dcc73be1e10f23c1d#87378"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Mon Oct 01, 2012 3:47 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
-				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=87378&amp;sid=b3600e50df77109dcc73be1e10f23c1d"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+				<td width="100%"><a href="viewtopic.php?p=87378#87378"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Mon Oct 01, 2012 3:47 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=87378"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
 			</tr>
 			<tr>
 				<td colspan="2"><hr /></td>
@@ -945,7 +945,7 @@ What, you've already seen it...?  <img src="images/smiles/icon_lol.gif" alt="Lau
 		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
 		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
 			<tr>
-				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=2269&amp;sid=b3600e50df77109dcc73be1e10f23c1d"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=2269&amp;sid=b3600e50df77109dcc73be1e10f23c1d"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=2269"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=2269"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
 
 	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
 		document.write(' ');
@@ -960,11 +960,11 @@ What, you've already seen it...?  <img src="images/smiles/icon_lol.gif" alt="Lau
 		<td class="spaceRow" colspan="2" height="1"><img src="templates/subSilver/images/spacer.gif" alt="" width="1" height="1" /></td>
 	</tr>
 	<tr>
-		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="87383"></a><b>Rick</b></span><br /><span class="postdetails">Site Admin<br /><img src="images/avatars/1622729613519b33bc3e86c.jpg" alt="" border="0" /><br /><br />Joined: 27 Apr 2005<br />Posts: 16052<br />Location: S. Cheshire</span><br /></td>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="87383"></a><b>Rick</b></span><br /><span class="postdetails">Site Admin<br /><img src="images/avatars/1622729613519b33bc3e86c.jpg" alt="" border="0" /><br /><br />Joined: 27 Apr 2005<br />Posts: 16058<br />Location: S. Cheshire</span><br /></td>
 		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
 			<tr>
-				<td width="100%"><a href="viewtopic.php?p=87383&amp;sid=b3600e50df77109dcc73be1e10f23c1d#87383"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Mon Oct 01, 2012 4:31 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
-				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=87383&amp;sid=b3600e50df77109dcc73be1e10f23c1d"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+				<td width="100%"><a href="viewtopic.php?p=87383#87383"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Mon Oct 01, 2012 4:31 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=87383"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
 			</tr>
 			<tr>
 				<td colspan="2"><hr /></td>
@@ -990,7 +990,7 @@ Various 1930s-1960s relics - Austin, Morris, Bedford, Dodge etc.</span><span cla
 		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
 		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
 			<tr>
-				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=15&amp;sid=b3600e50df77109dcc73be1e10f23c1d"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=15&amp;sid=b3600e50df77109dcc73be1e10f23c1d"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=15"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=15"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
 
 	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
 		document.write(' ');
@@ -1008,8 +1008,8 @@ Various 1930s-1960s relics - Austin, Morris, Bedford, Dodge etc.</span><span cla
 		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="87384"></a><b>victor 101</b></span><br /><span class="postdetails"><br /><br /><br />Joined: 03 Apr 2009<br />Posts: 399<br />Location: East Yorkshire</span><br /></td>
 		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
 			<tr>
-				<td width="100%"><a href="viewtopic.php?p=87384&amp;sid=b3600e50df77109dcc73be1e10f23c1d#87384"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Mon Oct 01, 2012 5:42 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
-				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=87384&amp;sid=b3600e50df77109dcc73be1e10f23c1d"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+				<td width="100%"><a href="viewtopic.php?p=87384#87384"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Mon Oct 01, 2012 5:42 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=87384"><img src="templates/subSilver/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
 			</tr>
 			<tr>
 				<td colspan="2"><hr /></td>
@@ -1023,7 +1023,7 @@ Various 1930s-1960s relics - Austin, Morris, Bedford, Dodge etc.</span><span cla
 		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
 		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
 			<tr>
-				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=990&amp;sid=b3600e50df77109dcc73be1e10f23c1d"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=990&amp;sid=b3600e50df77109dcc73be1e10f23c1d"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=990"><img src="templates/subSilver/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=990"><img src="templates/subSilver/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
 
 	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
 		document.write(' ');
@@ -1039,7 +1039,7 @@ Various 1930s-1960s relics - Austin, Morris, Bedford, Dodge etc.</span><span cla
 	</tr>
 	<tr align="center">
 		<td class="catBottom" colspan="2" height="28"><table cellspacing="0" cellpadding="0" border="0">
-			<tr><form method="post" action="viewtopic.php?t=12591&amp;start=30&amp;sid=b3600e50df77109dcc73be1e10f23c1d">
+			<tr><form method="post" action="viewtopic.php?t=12591&amp;start=30">
 				<td align="center"><span class="gensmall">Display posts from previous: <select name="postdays"><option value="0" selected="selected">All Posts</option><option value="1">1 Day</option><option value="7">7 Days</option><option value="14">2 Weeks</option><option value="30">1 Month</option><option value="90">3 Months</option><option value="180">6 Months</option><option value="364">1 Year</option></select>&nbsp;<select name="postorder"><option value="asc" selected="selected">Oldest First</option><option value="desc">Newest First</option></select>&nbsp;<input type="submit" value="Go" class="liteoption" name="submit" /></span></td>
 			</form></tr>
 		</table></td>
@@ -1067,10 +1067,10 @@ src="//pagead2.googlesyndication.com/pagead/show_ads.js">
   </tr>
 
   <tr>
-	<td align="left" valign="middle" nowrap="nowrap"><span class="nav"><a href="posting.php?mode=newtopic&amp;f=1&amp;sid=b3600e50df77109dcc73be1e10f23c1d"><img src="templates/subSilver/images/lang_english/post.gif" border="0" alt="Post new topic" align="middle" /></a>&nbsp;&nbsp;&nbsp;<a href="posting.php?mode=reply&amp;t=12591&amp;sid=b3600e50df77109dcc73be1e10f23c1d"><img src="templates/subSilver/images/lang_english/reply.gif" border="0" alt="Reply to topic" align="middle" /></a></span></td>
+	<td align="left" valign="middle" nowrap="nowrap"><span class="nav"><a href="posting.php?mode=newtopic&amp;f=1"><img src="templates/subSilver/images/lang_english/post.gif" border="0" alt="Post new topic" align="middle" /></a>&nbsp;&nbsp;&nbsp;<a href="posting.php?mode=reply&amp;t=12591"><img src="templates/subSilver/images/lang_english/reply.gif" border="0" alt="Reply to topic" align="middle" /></a></span></td>
 	<td align="left" valign="middle" width="100%"><span class="nav">&nbsp;&nbsp;&nbsp;<a href="http://www.oldclassiccar.co.uk/forum/phpbb/phpBB2/" class="nav">Classic cars forum & vehicle restoration. Forum Index</a>
-	  -> <a href="viewforum.php?f=1&amp;sid=b3600e50df77109dcc73be1e10f23c1d" class="nav">Classic & Vintage Cars - General Chat</a></span></td>
-	<td align="right" valign="top" nowrap="nowrap"><span class="gensmall">All times are GMT + 1 Hour</span><br /><span class="nav">Goto page  <a href="viewtopic.php?t=12591&amp;postdays=0&amp;postorder=asc&amp;start=15&amp;sid=b3600e50df77109dcc73be1e10f23c1d">Previous</a>&nbsp;&nbsp;<a href="viewtopic.php?t=12591&amp;postdays=0&amp;postorder=asc&amp;start=0&amp;sid=b3600e50df77109dcc73be1e10f23c1d">1</a>, <a href="viewtopic.php?t=12591&amp;postdays=0&amp;postorder=asc&amp;start=15&amp;sid=b3600e50df77109dcc73be1e10f23c1d">2</a>, <b>3</b>, <a href="viewtopic.php?t=12591&amp;postdays=0&amp;postorder=asc&amp;start=45&amp;sid=b3600e50df77109dcc73be1e10f23c1d">4</a>, <a href="viewtopic.php?t=12591&amp;postdays=0&amp;postorder=asc&amp;start=60&amp;sid=b3600e50df77109dcc73be1e10f23c1d">5</a>, <a href="viewtopic.php?t=12591&amp;postdays=0&amp;postorder=asc&amp;start=75&amp;sid=b3600e50df77109dcc73be1e10f23c1d">6</a>, <a href="viewtopic.php?t=12591&amp;postdays=0&amp;postorder=asc&amp;start=90&amp;sid=b3600e50df77109dcc73be1e10f23c1d">7</a>, <a href="viewtopic.php?t=12591&amp;postdays=0&amp;postorder=asc&amp;start=105&amp;sid=b3600e50df77109dcc73be1e10f23c1d">8</a>, <a href="viewtopic.php?t=12591&amp;postdays=0&amp;postorder=asc&amp;start=120&amp;sid=b3600e50df77109dcc73be1e10f23c1d">9</a>&nbsp;&nbsp;<a href="viewtopic.php?t=12591&amp;postdays=0&amp;postorder=asc&amp;start=45&amp;sid=b3600e50df77109dcc73be1e10f23c1d">Next</a></span>
+	  -> <a href="viewforum.php?f=1" class="nav">Classic & Vintage Cars - General Chat</a></span></td>
+	<td align="right" valign="top" nowrap="nowrap"><span class="gensmall">All times are GMT + 1 Hour</span><br /><span class="nav">Goto page  <a href="viewtopic.php?t=12591&amp;postdays=0&amp;postorder=asc&amp;start=15">Previous</a>&nbsp;&nbsp;<a href="viewtopic.php?t=12591&amp;postdays=0&amp;postorder=asc&amp;start=0">1</a>, <a href="viewtopic.php?t=12591&amp;postdays=0&amp;postorder=asc&amp;start=15">2</a>, <b>3</b>, <a href="viewtopic.php?t=12591&amp;postdays=0&amp;postorder=asc&amp;start=45">4</a>, <a href="viewtopic.php?t=12591&amp;postdays=0&amp;postorder=asc&amp;start=60">5</a>, <a href="viewtopic.php?t=12591&amp;postdays=0&amp;postorder=asc&amp;start=75">6</a>, <a href="viewtopic.php?t=12591&amp;postdays=0&amp;postorder=asc&amp;start=90">7</a>, <a href="viewtopic.php?t=12591&amp;postdays=0&amp;postorder=asc&amp;start=105">8</a>, <a href="viewtopic.php?t=12591&amp;postdays=0&amp;postorder=asc&amp;start=120">9</a>&nbsp;&nbsp;<a href="viewtopic.php?t=12591&amp;postdays=0&amp;postorder=asc&amp;start=45">Next</a></span>
 	  </td>
   </tr>
   <tr>
@@ -1091,9 +1091,9 @@ src="//pagead2.googlesyndication.com/pagead/show_ads.js">
 	  &nbsp;<br />
 	  </td>
 	<td align="right" valign="top" nowrap="nowrap">
-<form method="get" name="jumpbox" action="viewforum.php?sid=b3600e50df77109dcc73be1e10f23c1d" onSubmit="if(document.jumpbox.f.value == -1){return false;}"><table cellspacing="0" cellpadding="0" border="0">
+<form method="get" name="jumpbox" action="viewforum.php" onSubmit="if(document.jumpbox.f.value == -1){return false;}"><table cellspacing="0" cellpadding="0" border="0">
 	<tr>
-		<td nowrap="nowrap"><span class="gensmall">Jump to:&nbsp;<select name="f" onchange="if(this.options[this.selectedIndex].value != -1){ forms['jumpbox'].submit() }"><option value="-1">Select a forum</option><option value="-1">&nbsp;</option><option value="-1">Welcome</option><option value="-1">----------------</option><option value="38">Welcome To The OldClassicCar Forum</option><option value="-1">&nbsp;</option><option value="-1">Classic Cars, Lorries & Motorcycles</option><option value="-1">----------------</option><option value="23">Find Old Car Parts & Books on Ebay</option><option value="1"selected="selected">Classic & Vintage Cars - General Chat</option><option value="13">Classic Lorries, Steam, Vans, Pickup Trucks, Tractors, & Plant</option><option value="36">Classic Motorcycles & Bicycles</option><option value="41">Bodywork & Paint Restoration</option><option value="40">Electrical Restoration</option><option value="42">Mechanical Restoration</option><option value="24">General Restoration Advice</option><option value="31">Vintage Motoring-Related Toys, Tools & Accessories</option><option value="25">Interesting Links</option><option value="-1">&nbsp;</option><option value="-1">Ownership - Your Cars, Lorries & Restoration Projects (1900-1985)</option><option value="-1">----------------</option><option value="43">All Other Cars & Vehicles.</option><option value="44">Austin</option><option value="45">Ford</option><option value="52">Jaguar, Daimler & SS</option><option value="46">Morris</option><option value="49">Rootes Group & Original Companies (Hillman, Humber, Singer, Sunbeam, Commer etc)</option><option value="48">Triumph</option><option value="-1">&nbsp;</option><option value="-1">Vintage & Classic Caravans</option><option value="-1">----------------</option><option value="26">Classic Caravans</option><option value="-1">&nbsp;</option><option value="-1">Aircraft</option><option value="-1">----------------</option><option value="54">Historic Aviation</option><option value="-1">&nbsp;</option><option value="-1">For Sale & Wanted</option><option value="-1">----------------</option><option value="29">Your Adverts & Ebay 'finds'</option><option value="-1">&nbsp;</option><option value="-1">'Ye Olde Ventilated Crankcase' Public House</option><option value="-1">----------------</option><option value="34">Show News, Reports, Press Releases & Photographs</option><option value="39">General Motoring & Collectables</option></select><input type="hidden" name="sid" value="b3600e50df77109dcc73be1e10f23c1d" />&nbsp;<input type="submit" value="Go" class="liteoption" /></span></td>
+		<td nowrap="nowrap"><span class="gensmall">Jump to:&nbsp;<select name="f" onchange="if(this.options[this.selectedIndex].value != -1){ forms['jumpbox'].submit() }"><option value="-1">Select a forum</option><option value="-1">&nbsp;</option><option value="-1">Welcome</option><option value="-1">----------------</option><option value="38">Welcome To The OldClassicCar Forum</option><option value="-1">&nbsp;</option><option value="-1">Classic Cars, Lorries & Motorcycles</option><option value="-1">----------------</option><option value="23">Find Old Car Parts & Books on Ebay</option><option value="1"selected="selected">Classic & Vintage Cars - General Chat</option><option value="13">Classic Lorries, Steam, Vans, Pickup Trucks, Tractors, & Plant</option><option value="36">Classic Motorcycles & Bicycles</option><option value="41">Bodywork & Paint Restoration</option><option value="40">Electrical Restoration</option><option value="42">Mechanical Restoration</option><option value="24">General Restoration Advice</option><option value="31">Vintage Motoring-Related Toys, Tools & Accessories</option><option value="25">Interesting Links</option><option value="-1">&nbsp;</option><option value="-1">Ownership - Your Cars, Lorries & Restoration Projects (1900-1985)</option><option value="-1">----------------</option><option value="43">All Other Cars & Vehicles.</option><option value="44">Austin</option><option value="45">Ford</option><option value="52">Jaguar, Daimler & SS</option><option value="46">Morris</option><option value="49">Rootes Group & Original Companies (Hillman, Humber, Singer, Sunbeam, Commer etc)</option><option value="48">Triumph</option><option value="-1">&nbsp;</option><option value="-1">Vintage & Classic Caravans</option><option value="-1">----------------</option><option value="26">Classic Caravans</option><option value="-1">&nbsp;</option><option value="-1">Aircraft</option><option value="-1">----------------</option><option value="54">Historic Aviation</option><option value="-1">&nbsp;</option><option value="-1">For Sale & Wanted</option><option value="-1">----------------</option><option value="29">Your Adverts & Ebay 'finds'</option><option value="-1">&nbsp;</option><option value="-1">'Ye Olde Ventilated Crankcase' Public House</option><option value="-1">----------------</option><option value="34">Show News, Reports, Press Releases & Photographs</option><option value="39">General Motoring & Collectables</option></select><input type="hidden" name="sid" value="01309f9692e40f6b196a9923a350d08b" />&nbsp;<input type="submit" value="Go" class="liteoption" /></span></td>
 	</tr>
 </table></form>
 
