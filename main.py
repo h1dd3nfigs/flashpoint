@@ -19,8 +19,8 @@ def get_html_doc(url):
 	body = buffer.getvalue()
 	return body
 
-def write_post_data_to_csv(post_data):
-	with open('forum.csv', 'a') as f:
+def write_post_data_to_csv(post_data, mode ='a'):
+	with open('forum.csv', mode) as f:
 		writer = csv.writer(f, delimiter=';')
 		for value in post_data:	
 			writer.writerow(value)
@@ -36,16 +36,12 @@ if __name__ == "__main__":
 	page_uris = scraper.get_all_page_uris()
 	
 	# get post details on the first page
-	print('\n\nGetting post data for url\n')
-	print(url)
 	post_data = scraper.get_post_data_per_page()
-	write_post_data_to_csv(post_data)
+	write_post_data_to_csv(post_data, 'w')
 
 	# then loop through all subsequent pages in the thread
 	for path in page_uris:
 		url = urljoin(base_url, path)
-		print('\n\nGetting post data for url\n')
-		print(url)
 		html_doc = get_html_doc(url)
 		soup = BeautifulSoup(html_doc, 'html5lib')
 		post_data = scraper.get_post_data_per_page()
