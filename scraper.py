@@ -3,20 +3,17 @@
 
 # Imports 
 from bs4 import BeautifulSoup, NavigableString, Tag
-import math
 
 class Scraper:
 	page_uris = set()
 
-	def __init__(self, soup, url):
+	def __init__(self, soup):
 		self.soup = soup
-		self.url = url
 	#
 	# Get the URIs for all pages in this forum thread, 
 		# DOM Location: All <a> descendants of the first <span class="gensmall">
 		#
 	def get_all_page_uris(self):
-		# page_uris = set()
 		span_tag = self.soup.find("span", class_="gensmall")
 		for a_tag in span_tag.find_all("a"):
 			self.page_uris.add( a_tag.get('href'))
@@ -110,5 +107,4 @@ class Scraper:
 		post_dates = self.get_post_dates()
 		post_bodies = self.get_post_bodies()
 		post_data = zip(post_ids, post_authors, post_dates, post_bodies)
-
 		return post_data

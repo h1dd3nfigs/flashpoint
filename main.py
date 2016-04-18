@@ -8,6 +8,7 @@ from scraper import Scraper
 import pycurl
 from StringIO import StringIO
 from urlparse import urlparse, urljoin
+# from stub_html_doc import html_doc
 
 def get_html_doc(url):
 	buffer = StringIO()
@@ -30,11 +31,11 @@ if __name__ == "__main__":
 	url = base_url
 	html_doc = get_html_doc(url)
 	soup = BeautifulSoup(html_doc, 'html5lib')
-	scraper = Scraper(soup, url)
+	scraper = Scraper(soup)
 
 	# get the URIs for all pages in this forum thread
 	page_uris = scraper.get_all_page_uris()
-	
+
 	# get post details on the first page
 	post_data = scraper.get_post_data_per_page()
 	write_post_data_to_csv(post_data, 'w')
