@@ -45,6 +45,7 @@ if __name__ == "__main__":
 		url = urljoin(base_url, path)
 		html_doc = get_html_doc(url)
 		soup = BeautifulSoup(html_doc, 'html5lib')
+		scraper = Scraper(soup)
 		post_data = scraper.get_post_data_per_page()
 		write_post_data_to_csv(post_data)
 
